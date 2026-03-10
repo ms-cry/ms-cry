@@ -1,16 +1,57 @@
-# React + Vite
+# Hi there 👋 I'm Mainu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎓 Computer Science Student
+🤖 AI & Machine Learning Enthusiast
+💻 Python Developer
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 About Me
 
-## React Compiler
+I enjoy building intelligent systems and exploring problem solving through code.
+Currently learning **Machine Learning, Data Analysis, and Web Development** while working on projects that combine **AI and software engineering**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Languages**
+
+Python • JavaScript • HTML • CSS
+
+**Frameworks & Tools**
+
+React • Git • TailwindCSS • Vite
+
+**Data & AI**
+
+NumPy • Pandas • Machine Learning • NLP
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Student Record Manager**
+A Python CLI application to manage student records.
+
+🔹 **Mental Health Sentiment Analyzer**
+Machine learning model to analyze Reddit posts related to mental health.
+
+🔹 **Personal Portfolio**
+A modern developer portfolio built with React and Tailwind.
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://ms-cry.github.io
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/ms-cry
+
+---
+
+⭐ *Always learning and building new things.*
