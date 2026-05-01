@@ -44,7 +44,7 @@ A modern developer portfolio built with React and Tailwind.
 
 ## 🌐 Portfolio
 
-🔗 https://ms-cry.github.io
+🔗 https://ms-cry.github.io/portfolio
 
 ---
 
